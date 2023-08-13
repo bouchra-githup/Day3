@@ -1,0 +1,49 @@
+body{
+    background-image: url(Meditation-le-mode-d-emploi-antistress.jpg);
+}
+
+header{
+  height: 80px;
+  background-position: left;
+  background-color: rgb(169, 206, 232);
+  display: flex;
+  color: rgb(190, 151, 79);
+  justify-content: flex-end;
+    
+}
+header ul li{
+    display: inline-block;
+  text-decoration: none;
+  padding: 10px 30px;
+  font-weight: 600;
+  font-family: 'Fredoka One', cursive;
+  
+}
+p{
+    font-family: 'Mansalva', cursive;
+  font-size: 25px;
+  padding: 10px 150px;
+  color: slategray
+}
+section h1{
+    text-align: center;
+    font-size: 4vw;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+}
+section h2{
+    text-align: left;
+    padding: 2% 4%;
+}
+footer{
+    height: 80px;
+    background-position: left;
+    background-color: rgb(169, 206, 232);
+    display: flex;
+    color: rgb(190, 151, 79);
+    justify-content: left;
+    text-align: right;
+    font-size: 30px;
+    padding: 2%;
+    font-style: italic;
+}

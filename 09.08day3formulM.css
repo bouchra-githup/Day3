@@ -1,0 +1,46 @@
+p{
+    font-family: serif;
+    font-size: 4vw;
+    font-style: italic;
+    font-weight: bolder;
+    color: brown;
+    text-align: center;
+    
+}
+div{
+    text-align: center;
+}
+label{
+    color: blueviolet;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;  
+    width: auto;
+    height: auto;
+    
+}
+input{
+    color: black;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 400;
+    width: auto;
+    height: auto;
+    
+    
+}
+body{
+    background-image: url(bg.jpg);
+}
+legend{
+    color: brown;
+    font-size: 30px;
+    font-style: italic;
+    font-weight: bold;
+}
+select{
+    font-size: large;
+}
+button{
+    color: aquamarine;
+}
